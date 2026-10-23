@@ -24,7 +24,8 @@ To develop practical SQL skills by building a relational database and performing
 
 **Database Diagram**
 
-![database diagram]
+ Database Architecture & ERD (Entity-Relationship Diagram) 
+ 
 <img width="877" height="633" alt="image" src="https://github.com/user-attachments/assets/af58155c-c45b-4515-ad3d-9da5a8d6527a" />
 
  **Topics Covered:**
