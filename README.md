@@ -22,8 +22,8 @@ To develop practical SQL skills by building a relational database and performing
 **Database Diagram**
 
 ![database diagram]
+<img width="877" height="633" alt="image" src="https://github.com/user-attachments/assets/af58155c-c45b-4515-ad3d-9da5a8d6527a" />
 
-https://github-production-user-asset-6210df.s3.amazonaws.com/66506913/351168465-2ee8d91b-8a07-463a-9331-38f9415710e0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20261023%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261023T063452Z&X-Amz-Expires=300&X-Amz-Signature=0ab85d5938cde8bf878a313bbe9d179af281e19d71889c2ed5b5c4f9d9ee02a9&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng
 
 
 
